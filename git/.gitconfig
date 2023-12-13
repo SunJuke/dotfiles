@@ -1,0 +1,9 @@
+[user]
+	name = Anton Grigorev
+	email = anton.grigorev@emlid.com
+[core]
+	editor = vim
+[diff]
+	tool = vimdiff
+[alias]
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
