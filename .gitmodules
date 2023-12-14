@@ -4,7 +4,7 @@
 	ignore = dirty
 [submodule "tmux/plugins/tpm"]
 	path = tmux/plugins/tpm
-	url = git@github.com:tmux-plugins/tpm.git 
+	url = git@github.com:tmux-plugins/tpm.git
 [submodule "tmux/plugins/tmux-sensible"]
 	path = tmux/plugins/tmux-sensible
 	url = git@github.com:tmux-plugins/tmux-sensible.git
@@ -13,7 +13,7 @@
 	url = git@github.com:tmux-plugins/tmux-continuum.git
 [submodule "tmux/plugins/tmux-resurrect"]
 	path = tmux/plugins/tmux-resurrect
-	url = git@github.com:tmux-plugins/tmux-resurrect.git 
+	url = git@github.com:tmux-plugins/tmux-resurrect.git
 [submodule "tmux/plugins/tmux-prefix-highlight"]
 	path = tmux/plugins/tmux-prefix-highlight
 	url = git@github.com:tmux-plugins/tmux-prefix-highlight.git
